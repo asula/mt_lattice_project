@@ -1,0 +1,1 @@
+File moses.ini contains example configuration for Moses to read lattice input.
